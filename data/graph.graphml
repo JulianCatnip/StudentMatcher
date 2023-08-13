@@ -1,598 +1,616 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d1" for="edge" attr.name="weight" attr.type="float" />
-  <key id="d0" for="node" attr.name="cluster" attr.type="float" />
-  <graph edgedefault="undirected">
-    <node id="lalala-lololo">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="air-oughtest-wood-abate">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="nomercy">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="TV">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="JustTill">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="hbstr">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Quantum342 (ChatGPT)">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="bangnon123">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="7bpf8">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="DRP">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Stempelliebhaber">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="Panda">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Heartist">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="aw17">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="TomTom Navigation">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="242">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="FB42">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Moin123">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="hmmh">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="LcAbrgr">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="ac1306">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="3186">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="one_more_datapoint">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="KaHo">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="S.R.R.">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="agalper">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="123">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="kevkev">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="Ysaja">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="asdf">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="mava">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="oretani">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="2111">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="AOoOA">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="5714">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Tobbi">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Ismail">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="eprotizu">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="420">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="yeet">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="SugarDaddy">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Mk27">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="MBH22">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="XORA">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="J.V">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="QEasyG">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="sekkuro">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="899091">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Ark">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="6VGOD2">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="saja">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Kled07">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Ersan ">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="Btr">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="dotf_23">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="brnlq">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Sam">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Mfi62">
-      <data key="d0">0.0</data>
-    </node>
-    <node id="Lm1711">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="PaBe28">
-      <data key="d0">2.0</data>
-    </node>
-    <node id="Fel">
-      <data key="d0">1.0</data>
-    </node>
-    <node id="D1C2D327">
-      <data key="d0">2.0</data>
-    </node>
-    <edge source="lalala-lololo" target="air-oughtest-wood-abate">
-      <data key="d1">0.2670890533443356</data>
-    </edge>
-    <edge source="lalala-lololo" target="nomercy">
-      <data key="d1">0.29579961364898394</data>
-    </edge>
-    <edge source="lalala-lololo" target="TV">
-      <data key="d1">0.34674477817819455</data>
-    </edge>
-    <edge source="lalala-lololo" target="JustTill">
-      <data key="d1">0.25487350160682126</data>
-    </edge>
-    <edge source="air-oughtest-wood-abate" target="Heartist">
-      <data key="d1">0.2988659207133452</data>
-    </edge>
-    <edge source="air-oughtest-wood-abate" target="agalper">
-      <data key="d1">0.5656591723644815</data>
-    </edge>
-    <edge source="air-oughtest-wood-abate" target="ac1306">
-      <data key="d1">0.5646717429861513</data>
-    </edge>
-    <edge source="nomercy" target="5714">
-      <data key="d1">0.3817432204845</data>
-    </edge>
-    <edge source="nomercy" target="ac1306">
-      <data key="d1">0.29404175501182445</data>
-    </edge>
-    <edge source="TV" target="242">
-      <data key="d1">0.2969292209511552</data>
-    </edge>
-    <edge source="TV" target="3186">
-      <data key="d1">0.25257080773107693</data>
-    </edge>
-    <edge source="TV" target="KaHo">
-      <data key="d1">0.2545511144224711</data>
-    </edge>
-    <edge source="JustTill" target="Ismail">
-      <data key="d1">0.2773475659535328</data>
-    </edge>
-    <edge source="JustTill" target="eprotizu">
-      <data key="d1">0.48359684258562247</data>
-    </edge>
-    <edge source="JustTill" target="5714">
-      <data key="d1">0.38391553182237</data>
-    </edge>
-    <edge source="JustTill" target="Moin123">
-      <data key="d1">0.2648157834761031</data>
-    </edge>
-    <edge source="JustTill" target="Lm1711">
-      <data key="d1">0.5515714973378251</data>
-    </edge>
-    <edge source="JustTill" target="D1C2D327">
-      <data key="d1">0.28408372645517005</data>
-    </edge>
-    <edge source="hbstr" target="Quantum342 (ChatGPT)">
-      <data key="d1">0.2646806473025597</data>
-    </edge>
-    <edge source="hbstr" target="bangnon123">
-      <data key="d1">0.33261529969763026</data>
-    </edge>
-    <edge source="hbstr" target="7bpf8">
-      <data key="d1">0.34325301229204613</data>
-    </edge>
-    <edge source="hbstr" target="DRP">
-      <data key="d1">0.3638772934149558</data>
-    </edge>
-    <edge source="hbstr" target="Stempelliebhaber">
-      <data key="d1">0.3150941529326725</data>
-    </edge>
-    <edge source="Quantum342 (ChatGPT)" target="one_more_datapoint">
-      <data key="d1">0.34451569756474765</data>
-    </edge>
-    <edge source="Quantum342 (ChatGPT)" target="123">
-      <data key="d1">0.30141434420533536</data>
-    </edge>
-    <edge source="Quantum342 (ChatGPT)" target="mava">
-      <data key="d1">0.4133335227033113</data>
-    </edge>
-    <edge source="Quantum342 (ChatGPT)" target="oretani">
-      <data key="d1">0.3616274253957069</data>
-    </edge>
-    <edge source="bangnon123" target="420">
-      <data key="d1">0.3775036924199628</data>
-    </edge>
-    <edge source="bangnon123" target="7bpf8">
-      <data key="d1">0.4643916832421269</data>
-    </edge>
-    <edge source="bangnon123" target="MBH22">
-      <data key="d1">0.28161573911471766</data>
-    </edge>
-    <edge source="bangnon123" target="mava">
-      <data key="d1">0.25180068499819563</data>
-    </edge>
-    <edge source="bangnon123" target="XORA">
-      <data key="d1">0.37597439276196953</data>
-    </edge>
-    <edge source="bangnon123" target="J.V">
-      <data key="d1">0.2815820951687194</data>
-    </edge>
-    <edge source="7bpf8" target="242">
-      <data key="d1">0.40235271775567655</data>
-    </edge>
-    <edge source="7bpf8" target="MBH22">
-      <data key="d1">0.3665447360456903</data>
-    </edge>
-    <edge source="7bpf8" target="DRP">
-      <data key="d1">0.25086424136305807</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="Panda">
-      <data key="d1">0.36799637623321824</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="3186">
-      <data key="d1">0.26277539747607703</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="FB42">
-      <data key="d1">0.26427765363801176</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="agalper">
-      <data key="d1">0.31864327980709944</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="S.R.R.">
-      <data key="d1">0.4434553507602532</data>
-    </edge>
-    <edge source="Stempelliebhaber" target="Mfi62">
-      <data key="d1">0.2550229007504524</data>
-    </edge>
-    <edge source="Panda" target="Heartist">
-      <data key="d1">0.27412380373738</data>
-    </edge>
-    <edge source="Panda" target="aw17">
-      <data key="d1">0.31771561026804795</data>
-    </edge>
-    <edge source="Heartist" target="aw17">
-      <data key="d1">0.3146848851184974</data>
-    </edge>
-    <edge source="Heartist" target="XORA">
-      <data key="d1">0.38612054440079485</data>
-    </edge>
-    <edge source="Heartist" target="Btr">
-      <data key="d1">0.33858815997329916</data>
-    </edge>
-    <edge source="Heartist" target="Kled07">
-      <data key="d1">0.3036101232733338</data>
-    </edge>
-    <edge source="aw17" target="agalper">
-      <data key="d1">0.26704514989429406</data>
-    </edge>
-    <edge source="aw17" target="KaHo">
-      <data key="d1">0.2985500695563701</data>
-    </edge>
-    <edge source="aw17" target="Btr">
-      <data key="d1">0.2884118540262606</data>
-    </edge>
-    <edge source="TomTom Navigation" target="242">
-      <data key="d1">0.3747057074929417</data>
-    </edge>
-    <edge source="TomTom Navigation" target="FB42">
-      <data key="d1">0.3303866301933083</data>
-    </edge>
-    <edge source="TomTom Navigation" target="Moin123">
-      <data key="d1">0.27097058496529114</data>
-    </edge>
-    <edge source="TomTom Navigation" target="hmmh">
-      <data key="d1">0.2784211001612037</data>
-    </edge>
-    <edge source="242" target="ac1306">
-      <data key="d1">0.29808049320879154</data>
-    </edge>
-    <edge source="242" target="Moin123">
-      <data key="d1">0.32227922277468646</data>
-    </edge>
-    <edge source="FB42" target="S.R.R.">
-      <data key="d1">0.2797283542991153</data>
-    </edge>
-    <edge source="hmmh" target="saja">
-      <data key="d1">0.296501070583495</data>
-    </edge>
-    <edge source="ac1306" target="agalper">
-      <data key="d1">0.41211076025678395</data>
-    </edge>
-    <edge source="ac1306" target="Btr">
-      <data key="d1">0.27321574378952707</data>
-    </edge>
-    <edge source="ac1306" target="J.V">
-      <data key="d1">0.25819811330054265</data>
-    </edge>
-    <edge source="3186" target="one_more_datapoint">
-      <data key="d1">0.25206775968190354</data>
-    </edge>
-    <edge source="3186" target="KaHo">
-      <data key="d1">0.30808149878029284</data>
-    </edge>
-    <edge source="3186" target="S.R.R.">
-      <data key="d1">0.3616268305562283</data>
-    </edge>
-    <edge source="one_more_datapoint" target="123">
-      <data key="d1">0.2884395444889774</data>
-    </edge>
-    <edge source="one_more_datapoint" target="kevkev">
-      <data key="d1">0.317839042257197</data>
-    </edge>
-    <edge source="one_more_datapoint" target="Ysaja">
-      <data key="d1">0.2565596638500847</data>
-    </edge>
-    <edge source="one_more_datapoint" target="asdf">
-      <data key="d1">0.2732376589751066</data>
-    </edge>
-    <edge source="KaHo" target="QEasyG">
-      <data key="d1">0.2691579026794908</data>
-    </edge>
-    <edge source="KaHo" target="Ersan ">
-      <data key="d1">0.29084647991107787</data>
-    </edge>
-    <edge source="KaHo" target="Btr">
-      <data key="d1">0.3814856862886041</data>
-    </edge>
-    <edge source="KaHo" target="SugarDaddy">
-      <data key="d1">0.26394256642862574</data>
-    </edge>
-    <edge source="S.R.R." target="oretani">
-      <data key="d1">0.284440636475374</data>
-    </edge>
-    <edge source="S.R.R." target="D1C2D327">
-      <data key="d1">0.3044118703517182</data>
-    </edge>
-    <edge source="agalper" target="Btr">
-      <data key="d1">0.2930993573611117</data>
-    </edge>
-    <edge source="agalper" target="PaBe28">
-      <data key="d1">0.3313210083949611</data>
-    </edge>
-    <edge source="123" target="saja">
-      <data key="d1">0.3393463551429963</data>
-    </edge>
-    <edge source="123" target="kevkev">
-      <data key="d1">0.40074832178799247</data>
-    </edge>
-    <edge source="123" target="Ysaja">
-      <data key="d1">0.5012205188038161</data>
-    </edge>
-    <edge source="123" target="asdf">
-      <data key="d1">0.7371985852244111</data>
-    </edge>
-    <edge source="123" target="Kled07">
-      <data key="d1">0.2738349355093302</data>
-    </edge>
-    <edge source="123" target="oretani">
-      <data key="d1">0.43279976434814144</data>
-    </edge>
-    <edge source="kevkev" target="mava">
-      <data key="d1">0.2835335405969559</data>
-    </edge>
-    <edge source="kevkev" target="Ysaja">
-      <data key="d1">0.29767986954618375</data>
-    </edge>
-    <edge source="kevkev" target="asdf">
-      <data key="d1">0.3652190117818837</data>
-    </edge>
-    <edge source="kevkev" target="Mfi62">
-      <data key="d1">0.4100601788561793</data>
-    </edge>
-    <edge source="kevkev" target="oretani">
-      <data key="d1">0.3208427215010406</data>
-    </edge>
-    <edge source="Ysaja" target="asdf">
-      <data key="d1">0.2917836541001379</data>
-    </edge>
-    <edge source="Ysaja" target="oretani">
-      <data key="d1">0.3413992600998944</data>
-    </edge>
-    <edge source="asdf" target="sekkuro">
-      <data key="d1">0.33852080119974787</data>
-    </edge>
-    <edge source="mava" target="420">
-      <data key="d1">0.3149123361443668</data>
-    </edge>
-    <edge source="2111" target="AOoOA">
-      <data key="d1">0.3029382749385426</data>
-    </edge>
-    <edge source="2111" target="5714">
-      <data key="d1">0.3975707181331308</data>
-    </edge>
-    <edge source="2111" target="Tobbi">
-      <data key="d1">0.30586632976199807</data>
-    </edge>
-    <edge source="AOoOA" target="Ersan ">
-      <data key="d1">0.3744651820286546</data>
-    </edge>
-    <edge source="5714" target="eprotizu">
-      <data key="d1">0.28156916885110694</data>
-    </edge>
-    <edge source="5714" target="sekkuro">
-      <data key="d1">0.2853494684406007</data>
-    </edge>
-    <edge source="5714" target="420">
-      <data key="d1">0.29424531589478614</data>
-    </edge>
-    <edge source="5714" target="Lm1711">
-      <data key="d1">0.43176414446137623</data>
-    </edge>
-    <edge source="Tobbi" target="saja">
-      <data key="d1">0.31148931064714924</data>
-    </edge>
-    <edge source="Tobbi" target="Lm1711">
-      <data key="d1">0.3738542338503901</data>
-    </edge>
-    <edge source="Tobbi" target="D1C2D327">
-      <data key="d1">0.3855299762297957</data>
-    </edge>
-    <edge source="Ismail" target="eprotizu">
-      <data key="d1">0.6085115534431308</data>
-    </edge>
-    <edge source="Ismail" target="420">
-      <data key="d1">0.329047847435711</data>
-    </edge>
-    <edge source="Ismail" target="yeet">
-      <data key="d1">0.33045456358610426</data>
-    </edge>
-    <edge source="Ismail" target="SugarDaddy">
-      <data key="d1">0.37048187052064474</data>
-    </edge>
-    <edge source="Ismail" target="Mk27">
-      <data key="d1">0.2624131747342244</data>
-    </edge>
-    <edge source="eprotizu" target="420">
-      <data key="d1">0.34984518347027527</data>
-    </edge>
-    <edge source="eprotizu" target="yeet">
-      <data key="d1">0.4284073066787534</data>
-    </edge>
-    <edge source="eprotizu" target="QEasyG">
-      <data key="d1">0.25673094014101755</data>
-    </edge>
-    <edge source="eprotizu" target="Mk27">
-      <data key="d1">0.31338012776300656</data>
-    </edge>
-    <edge source="420" target="sekkuro">
-      <data key="d1">0.3418766728775575</data>
-    </edge>
-    <edge source="420" target="6VGOD2">
-      <data key="d1">0.3592035911349153</data>
-    </edge>
-    <edge source="SugarDaddy" target="Ersan ">
-      <data key="d1">0.35138368735845404</data>
-    </edge>
-    <edge source="Mk27" target="Lm1711">
-      <data key="d1">0.3936359831344616</data>
-    </edge>
-    <edge source="J.V" target="Btr">
-      <data key="d1">0.38947355254734745</data>
-    </edge>
-    <edge source="sekkuro" target="899091">
-      <data key="d1">0.2911591089992332</data>
-    </edge>
-    <edge source="sekkuro" target="Ark">
-      <data key="d1">0.33324794396775104</data>
-    </edge>
-    <edge source="899091" target="dotf_23">
-      <data key="d1">0.41285162777941303</data>
-    </edge>
-    <edge source="899091" target="brnlq">
-      <data key="d1">0.30972052287671764</data>
-    </edge>
-    <edge source="899091" target="6VGOD2">
-      <data key="d1">0.27760759894388964</data>
-    </edge>
-    <edge source="899091" target="Ark">
-      <data key="d1">0.43615360592722957</data>
-    </edge>
-    <edge source="899091" target="D1C2D327">
-      <data key="d1">0.46840085455762476</data>
-    </edge>
-    <edge source="Ark" target="dotf_23">
-      <data key="d1">0.3094429420852545</data>
-    </edge>
-    <edge source="Ark" target="PaBe28">
-      <data key="d1">0.32158144268048416</data>
-    </edge>
-    <edge source="6VGOD2" target="Lm1711">
-      <data key="d1">0.26361823142275226</data>
-    </edge>
-    <edge source="6VGOD2" target="Sam">
-      <data key="d1">0.3496957683357082</data>
-    </edge>
-    <edge source="6VGOD2" target="Fel">
-      <data key="d1">0.2557938572108703</data>
-    </edge>
-    <edge source="Kled07" target="PaBe28">
-      <data key="d1">0.3341454380946697</data>
-    </edge>
-    <edge source="Btr" target="PaBe28">
-      <data key="d1">0.3024110413115506</data>
-    </edge>
-    <edge source="dotf_23" target="brnlq">
-      <data key="d1">0.2549776917799837</data>
-    </edge>
-    <edge source="dotf_23" target="Sam">
-      <data key="d1">0.3893661600519017</data>
-    </edge>
-    <edge source="dotf_23" target="Mfi62">
-      <data key="d1">0.3494940308860879</data>
-    </edge>
-    <edge source="Lm1711" target="Fel">
-      <data key="d1">0.32288110230204586</data>
-    </edge>
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="cluster" attr.type="int"/>
+<graph edgedefault="undirected"><node id="lalala-lololo">
+  <data key="d0">1</data>
+</node>
+<node id="air-oughtest-wood-abate">
+  <data key="d0">1</data>
+</node>
+<node id="nomercy">
+  <data key="d0">2</data>
+</node>
+<node id="agalper">
+  <data key="d0">0</data>
+</node>
+<node id="TV">
+  <data key="d0">1</data>
+</node>
+<node id="JustTill">
+  <data key="d0">2</data>
+</node>
+<node id="hbstr">
+  <data key="d0">1</data>
+</node>
+<node id="Quantum342 (ChatGPT)">
+  <data key="d0">1</data>
+</node>
+<node id="bangnon123">
+  <data key="d0">1</data>
+</node>
+<node id="7bpf8">
+  <data key="d0">1</data>
+</node>
+<node id="DRP">
+  <data key="d0">1</data>
+</node>
+<node id="Stempelliebhaber">
+  <data key="d0">0</data>
+</node>
+<node id="Panda">
+  <data key="d0">1</data>
+</node>
+<node id="Heartist">
+  <data key="d0">1</data>
+</node>
+<node id="aw17">
+  <data key="d0">1</data>
+</node>
+<node id="TomTom Navigation">
+  <data key="d0">1</data>
+</node>
+<node id="242">
+  <data key="d0">1</data>
+</node>
+<node id="FB42">
+  <data key="d0">2</data>
+</node>
+<node id="Moin123">
+  <data key="d0">2</data>
+</node>
+<node id="hmmh">
+  <data key="d0">2</data>
+</node>
+<node id="LcAbrgr">
+  <data key="d0">2</data>
+</node>
+<node id="ac1306">
+  <data key="d0">1</data>
+</node>
+<node id="3186">
+  <data key="d0">0</data>
+</node>
+<node id="one_more_datapoint">
+  <data key="d0">0</data>
+</node>
+<node id="KaHo">
+  <data key="d0">1</data>
+</node>
+<node id="S.R.R.">
+  <data key="d0">0</data>
+</node>
+<node id="123">
+  <data key="d0">0</data>
+</node>
+<node id="kevkev">
+  <data key="d0">0</data>
+</node>
+<node id="Ysaja">
+  <data key="d0">0</data>
+</node>
+<node id="asdf">
+  <data key="d0">0</data>
+</node>
+<node id="oretani">
+  <data key="d0">0</data>
+</node>
+<node id="mava">
+  <data key="d0">1</data>
+</node>
+<node id="2111">
+  <data key="d0">2</data>
+</node>
+<node id="AOoOA">
+  <data key="d0">0</data>
+</node>
+<node id="5714">
+  <data key="d0">2</data>
+</node>
+<node id="Tobbi">
+  <data key="d0">2</data>
+</node>
+<node id="Ismail">
+  <data key="d0">2</data>
+</node>
+<node id="eprotizu">
+  <data key="d0">2</data>
+</node>
+<node id="420">
+  <data key="d0">1</data>
+</node>
+<node id="yeet">
+  <data key="d0">1</data>
+</node>
+<node id="Ersan ">
+  <data key="d0">1</data>
+</node>
+<node id="SugarDaddy">
+  <data key="d0">1</data>
+</node>
+<node id="MBH22">
+  <data key="d0">1</data>
+</node>
+<node id="XORA">
+  <data key="d0">1</data>
+</node>
+<node id="J.V">
+  <data key="d0">1</data>
+</node>
+<node id="QEasyG">
+  <data key="d0">1</data>
+</node>
+<node id="Mk27">
+  <data key="d0">1</data>
+</node>
+<node id="sekkuro">
+  <data key="d0">2</data>
+</node>
+<node id="899091">
+  <data key="d0">2</data>
+</node>
+<node id="Ark">
+  <data key="d0">2</data>
+</node>
+<node id="6VGOD2">
+  <data key="d0">2</data>
+</node>
+<node id="saja">
+  <data key="d0">2</data>
+</node>
+<node id="Btr">
+  <data key="d0">1</data>
+</node>
+<node id="Kled07">
+  <data key="d0">1</data>
+</node>
+<node id="dotf_23">
+  <data key="d0">2</data>
+</node>
+<node id="brnlq">
+  <data key="d0">2</data>
+</node>
+<node id="Sam">
+  <data key="d0">2</data>
+</node>
+<node id="Mfi62">
+  <data key="d0">0</data>
+</node>
+<node id="Lm1711">
+  <data key="d0">2</data>
+</node>
+<node id="PaBe28">
+  <data key="d0">2</data>
+</node>
+<node id="Fel">
+  <data key="d0">1</data>
+</node>
+<node id="D1C2D327">
+  <data key="d0">2</data>
+</node>
+<edge source="lalala-lololo" target="air-oughtest-wood-abate">
+  <data key="d1">0.2833839824716623</data>
+</edge>
+<edge source="lalala-lololo" target="nomercy">
+  <data key="d1">0.30213054218491797</data>
+</edge>
+<edge source="lalala-lololo" target="agalper">
+  <data key="d1">0.25540527258103674</data>
+</edge>
+<edge source="lalala-lololo" target="TV">
+  <data key="d1">0.3411519534814707</data>
+</edge>
+<edge source="lalala-lololo" target="JustTill">
+  <data key="d1">0.2564302633151199</data>
+</edge>
+<edge source="air-oughtest-wood-abate" target="Heartist">
+  <data key="d1">0.29603201200938567</data>
+</edge>
+<edge source="air-oughtest-wood-abate" target="agalper">
+  <data key="d1">0.5507656932512404</data>
+</edge>
+<edge source="air-oughtest-wood-abate" target="ac1306">
+  <data key="d1">0.5495057073032852</data>
+</edge>
+<edge source="nomercy" target="LcAbrgr">
+  <data key="d1">0.2578588764991376</data>
+</edge>
+<edge source="nomercy" target="5714">
+  <data key="d1">0.3821346887076432</data>
+</edge>
+<edge source="nomercy" target="ac1306">
+  <data key="d1">0.288128032580736</data>
+</edge>
+<edge source="agalper" target="ac1306">
+  <data key="d1">0.3723349126016387</data>
+</edge>
+<edge source="agalper" target="aw17">
+  <data key="d1">0.31001659865840225</data>
+</edge>
+<edge source="agalper" target="Btr">
+  <data key="d1">0.3674050501516992</data>
+</edge>
+<edge source="agalper" target="Stempelliebhaber">
+  <data key="d1">0.34543782859796446</data>
+</edge>
+<edge source="agalper" target="PaBe28">
+  <data key="d1">0.33459698376921987</data>
+</edge>
+<edge source="agalper" target="oretani">
+  <data key="d1">0.3008936225151903</data>
+</edge>
+<edge source="TV" target="242">
+  <data key="d1">0.2858523451674494</data>
+</edge>
+<edge source="TV" target="ac1306">
+  <data key="d1">0.2628783178445711</data>
+</edge>
+<edge source="JustTill" target="Ismail">
+  <data key="d1">0.28307855307855856</data>
+</edge>
+<edge source="JustTill" target="eprotizu">
+  <data key="d1">0.49863482217290805</data>
+</edge>
+<edge source="JustTill" target="5714">
+  <data key="d1">0.4012382423774388</data>
+</edge>
+<edge source="JustTill" target="Moin123">
+  <data key="d1">0.2695008110800941</data>
+</edge>
+<edge source="JustTill" target="Lm1711">
+  <data key="d1">0.5526622374136236</data>
+</edge>
+<edge source="JustTill" target="D1C2D327">
+  <data key="d1">0.2852387602354167</data>
+</edge>
+<edge source="hbstr" target="Quantum342 (ChatGPT)">
+  <data key="d1">0.2693473032759917</data>
+</edge>
+<edge source="hbstr" target="bangnon123">
+  <data key="d1">0.33469098363982436</data>
+</edge>
+<edge source="hbstr" target="7bpf8">
+  <data key="d1">0.3467280702359586</data>
+</edge>
+<edge source="hbstr" target="DRP">
+  <data key="d1">0.36394411188989806</data>
+</edge>
+<edge source="hbstr" target="Stempelliebhaber">
+  <data key="d1">0.3154810408543656</data>
+</edge>
+<edge source="Quantum342 (ChatGPT)" target="one_more_datapoint">
+  <data key="d1">0.40713516255205945</data>
+</edge>
+<edge source="Quantum342 (ChatGPT)" target="123">
+  <data key="d1">0.251645127135098</data>
+</edge>
+<edge source="Quantum342 (ChatGPT)" target="mava">
+  <data key="d1">0.42101910337535287</data>
+</edge>
+<edge source="Quantum342 (ChatGPT)" target="oretani">
+  <data key="d1">0.33923918490794713</data>
+</edge>
+<edge source="bangnon123" target="420">
+  <data key="d1">0.3717979513735437</data>
+</edge>
+<edge source="bangnon123" target="7bpf8">
+  <data key="d1">0.4575761393068772</data>
+</edge>
+<edge source="bangnon123" target="MBH22">
+  <data key="d1">0.26520231733867383</data>
+</edge>
+<edge source="bangnon123" target="mava">
+  <data key="d1">0.2535065921715331</data>
+</edge>
+<edge source="bangnon123" target="XORA">
+  <data key="d1">0.38931255543248444</data>
+</edge>
+<edge source="bangnon123" target="J.V">
+  <data key="d1">0.27315595766219847</data>
+</edge>
+<edge source="7bpf8" target="242">
+  <data key="d1">0.4274051063030263</data>
+</edge>
+<edge source="7bpf8" target="MBH22">
+  <data key="d1">0.3463175005642618</data>
+</edge>
+<edge source="7bpf8" target="DRP">
+  <data key="d1">0.25163315837148154</data>
+</edge>
+<edge source="Stempelliebhaber" target="Panda">
+  <data key="d1">0.36323171651744857</data>
+</edge>
+<edge source="Stempelliebhaber" target="3186">
+  <data key="d1">0.2575476025227689</data>
+</edge>
+<edge source="Stempelliebhaber" target="FB42">
+  <data key="d1">0.2788796974758522</data>
+</edge>
+<edge source="Stempelliebhaber" target="S.R.R.">
+  <data key="d1">0.4474087022987755</data>
+</edge>
+<edge source="Panda" target="Heartist">
+  <data key="d1">0.28432217596424797</data>
+</edge>
+<edge source="Panda" target="aw17">
+  <data key="d1">0.3042842107529581</data>
+</edge>
+<edge source="Heartist" target="aw17">
+  <data key="d1">0.32310033921521775</data>
+</edge>
+<edge source="Heartist" target="XORA">
+  <data key="d1">0.39246334524049836</data>
+</edge>
+<edge source="Heartist" target="Btr">
+  <data key="d1">0.3574008935070193</data>
+</edge>
+<edge source="Heartist" target="Kled07">
+  <data key="d1">0.31204901821158465</data>
+</edge>
+<edge source="aw17" target="AOoOA">
+  <data key="d1">0.28694370360165145</data>
+</edge>
+<edge source="aw17" target="KaHo">
+  <data key="d1">0.2812141832650771</data>
+</edge>
+<edge source="aw17" target="Btr">
+  <data key="d1">0.2690112740974306</data>
+</edge>
+<edge source="TomTom Navigation" target="242">
+  <data key="d1">0.3610102199925401</data>
+</edge>
+<edge source="TomTom Navigation" target="FB42">
+  <data key="d1">0.3658324171431353</data>
+</edge>
+<edge source="TomTom Navigation" target="Moin123">
+  <data key="d1">0.25281811677089816</data>
+</edge>
+<edge source="TomTom Navigation" target="hmmh">
+  <data key="d1">0.2578326218953462</data>
+</edge>
+<edge source="242" target="ac1306">
+  <data key="d1">0.3480961215295791</data>
+</edge>
+<edge source="242" target="Moin123">
+  <data key="d1">0.30815022992866886</data>
+</edge>
+<edge source="FB42" target="saja">
+  <data key="d1">0.2524624334987769</data>
+</edge>
+<edge source="FB42" target="S.R.R.">
+  <data key="d1">0.27689320089322705</data>
+</edge>
+<edge source="hmmh" target="saja">
+  <data key="d1">0.26892348623483436</data>
+</edge>
+<edge source="ac1306" target="Btr">
+  <data key="d1">0.35128572285984033</data>
+</edge>
+<edge source="3186" target="one_more_datapoint">
+  <data key="d1">0.2873544932933686</data>
+</edge>
+<edge source="3186" target="KaHo">
+  <data key="d1">0.2925050855375514</data>
+</edge>
+<edge source="3186" target="S.R.R.">
+  <data key="d1">0.36945181804041777</data>
+</edge>
+<edge source="one_more_datapoint" target="123">
+  <data key="d1">0.4014079561373443</data>
+</edge>
+<edge source="one_more_datapoint" target="kevkev">
+  <data key="d1">0.337602155457122</data>
+</edge>
+<edge source="one_more_datapoint" target="Ysaja">
+  <data key="d1">0.267361664453166</data>
+</edge>
+<edge source="one_more_datapoint" target="asdf">
+  <data key="d1">0.3464976788675376</data>
+</edge>
+<edge source="one_more_datapoint" target="oretani">
+  <data key="d1">0.2906079349136158</data>
+</edge>
+<edge source="KaHo" target="AOoOA">
+  <data key="d1">0.29753812609111757</data>
+</edge>
+<edge source="KaHo" target="QEasyG">
+  <data key="d1">0.2522627400058219</data>
+</edge>
+<edge source="KaHo" target="Ersan ">
+  <data key="d1">0.28880503102016125</data>
+</edge>
+<edge source="KaHo" target="Btr">
+  <data key="d1">0.3532842511873901</data>
+</edge>
+<edge source="KaHo" target="SugarDaddy">
+  <data key="d1">0.3151525904663098</data>
+</edge>
+<edge source="S.R.R." target="oretani">
+  <data key="d1">0.29606658083368326</data>
+</edge>
+<edge source="S.R.R." target="D1C2D327">
+  <data key="d1">0.3077542140137148</data>
+</edge>
+<edge source="123" target="saja">
+  <data key="d1">0.28686128177431874</data>
+</edge>
+<edge source="123" target="kevkev">
+  <data key="d1">0.4100090741650699</data>
+</edge>
+<edge source="123" target="Ysaja">
+  <data key="d1">0.5285965542034545</data>
+</edge>
+<edge source="123" target="asdf">
+  <data key="d1">0.7172476463158557</data>
+</edge>
+<edge source="123" target="oretani">
+  <data key="d1">0.4043325079069901</data>
+</edge>
+<edge source="kevkev" target="mava">
+  <data key="d1">0.28366610133190223</data>
+</edge>
+<edge source="kevkev" target="Ysaja">
+  <data key="d1">0.29717321231613597</data>
+</edge>
+<edge source="kevkev" target="asdf">
+  <data key="d1">0.3646310674110443</data>
+</edge>
+<edge source="kevkev" target="Mfi62">
+  <data key="d1">0.40795794892267717</data>
+</edge>
+<edge source="kevkev" target="oretani">
+  <data key="d1">0.3174149667478461</data>
+</edge>
+<edge source="Ysaja" target="asdf">
+  <data key="d1">0.29632470566672353</data>
+</edge>
+<edge source="Ysaja" target="oretani">
+  <data key="d1">0.343289909650859</data>
+</edge>
+<edge source="asdf" target="sekkuro">
+  <data key="d1">0.3434884420030123</data>
+</edge>
+<edge source="mava" target="420">
+  <data key="d1">0.31664285543124854</data>
+</edge>
+<edge source="2111" target="AOoOA">
+  <data key="d1">0.26216631121734385</data>
+</edge>
+<edge source="2111" target="5714">
+  <data key="d1">0.34576798574796014</data>
+</edge>
+<edge source="2111" target="Tobbi">
+  <data key="d1">0.36334011670552785</data>
+</edge>
+<edge source="AOoOA" target="Ersan ">
+  <data key="d1">0.39305198469452535</data>
+</edge>
+<edge source="5714" target="sekkuro">
+  <data key="d1">0.30844101084405984</data>
+</edge>
+<edge source="5714" target="420">
+  <data key="d1">0.2808911941941466</data>
+</edge>
+<edge source="5714" target="6VGOD2">
+  <data key="d1">0.29164107075047907</data>
+</edge>
+<edge source="5714" target="Tobbi">
+  <data key="d1">0.3089852138134146</data>
+</edge>
+<edge source="5714" target="Lm1711">
+  <data key="d1">0.4288841827207585</data>
+</edge>
+<edge source="Tobbi" target="saja">
+  <data key="d1">0.2867408811874719</data>
+</edge>
+<edge source="Tobbi" target="Lm1711">
+  <data key="d1">0.3937160600771288</data>
+</edge>
+<edge source="Tobbi" target="D1C2D327">
+  <data key="d1">0.3814540451758925</data>
+</edge>
+<edge source="Ismail" target="eprotizu">
+  <data key="d1">0.5824510130626016</data>
+</edge>
+<edge source="Ismail" target="420">
+  <data key="d1">0.31772810137740365</data>
+</edge>
+<edge source="Ismail" target="yeet">
+  <data key="d1">0.3387945218373139</data>
+</edge>
+<edge source="Ismail" target="Ersan ">
+  <data key="d1">0.2590060844289692</data>
+</edge>
+<edge source="Ismail" target="SugarDaddy">
+  <data key="d1">0.33973615575015187</data>
+</edge>
+<edge source="eprotizu" target="420">
+  <data key="d1">0.33913258938344065</data>
+</edge>
+<edge source="eprotizu" target="yeet">
+  <data key="d1">0.44256068278786465</data>
+</edge>
+<edge source="eprotizu" target="QEasyG">
+  <data key="d1">0.3011622761299332</data>
+</edge>
+<edge source="eprotizu" target="Mk27">
+  <data key="d1">0.2968756179589023</data>
+</edge>
+<edge source="420" target="sekkuro">
+  <data key="d1">0.3455042982387284</data>
+</edge>
+<edge source="420" target="6VGOD2">
+  <data key="d1">0.3790588619372919</data>
+</edge>
+<edge source="Ersan " target="SugarDaddy">
+  <data key="d1">0.36684412372896935</data>
+</edge>
+<edge source="SugarDaddy" target="Btr">
+  <data key="d1">0.2773756320036058</data>
+</edge>
+<edge source="J.V" target="Btr">
+  <data key="d1">0.42897483830389244</data>
+</edge>
+<edge source="Mk27" target="Lm1711">
+  <data key="d1">0.38823560366629023</data>
+</edge>
+<edge source="sekkuro" target="899091">
+  <data key="d1">0.29549567263887255</data>
+</edge>
+<edge source="sekkuro" target="Ark">
+  <data key="d1">0.34146160632699807</data>
+</edge>
+<edge source="899091" target="dotf_23">
+  <data key="d1">0.40163118278283705</data>
+</edge>
+<edge source="899091" target="brnlq">
+  <data key="d1">0.3231543976381208</data>
+</edge>
+<edge source="899091" target="6VGOD2">
+  <data key="d1">0.2994226674749464</data>
+</edge>
+<edge source="899091" target="Ark">
+  <data key="d1">0.42668889293792317</data>
+</edge>
+<edge source="899091" target="D1C2D327">
+  <data key="d1">0.47872199697789947</data>
+</edge>
+<edge source="Ark" target="dotf_23">
+  <data key="d1">0.2871985354034646</data>
+</edge>
+<edge source="Ark" target="PaBe28">
+  <data key="d1">0.3212786160606924</data>
+</edge>
+<edge source="6VGOD2" target="Lm1711">
+  <data key="d1">0.28046233003275295</data>
+</edge>
+<edge source="6VGOD2" target="Sam">
+  <data key="d1">0.33542305263372096</data>
+</edge>
+<edge source="6VGOD2" target="Fel">
+  <data key="d1">0.26959001110651537</data>
+</edge>
+<edge source="saja" target="dotf_23">
+  <data key="d1">0.30278447334504793</data>
+</edge>
+<edge source="Btr" target="PaBe28">
+  <data key="d1">0.31680551767603776</data>
+</edge>
+<edge source="Kled07" target="PaBe28">
+  <data key="d1">0.3408135031617143</data>
+</edge>
+<edge source="dotf_23" target="brnlq">
+  <data key="d1">0.27974275548648236</data>
+</edge>
+<edge source="dotf_23" target="Sam">
+  <data key="d1">0.4295972241081406</data>
+</edge>
+<edge source="dotf_23" target="Mfi62">
+  <data key="d1">0.39466808312668683</data>
+</edge>
+<edge source="Lm1711" target="Fel">
+  <data key="d1">0.3191777573367714</data>
+</edge>
+<edge source="PaBe28" target="D1C2D327">
+  <data key="d1">0.252261049861144</data>
+</edge>
+</graph></graphml>
